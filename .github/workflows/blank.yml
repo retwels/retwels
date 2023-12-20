@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <!-- Ajoutez ici vos liens vers des fichiers CSS ou d'autres ressources -->
+</head>
+<body>
+
+    <header>
+        <h1>Mon Site Web</h1>
+        <!-- Ajoutez ici votre en-tête ou logo -->
+    </header>
+
+    <nav>
+        <!-- Ajoutez ici votre menu de navigation -->
+    </nav>
+
+    <section>
+        <!-- Ajoutez ici le contenu principal de votre site -->
+    </section>
+
+    <footer>
+        <!-- Ajoutez ici votre pied de page -->
+    </footer>
+
+    <!-- Ajoutez ici vos scripts JavaScript ou d'autres ressources -->
+
+</body>
+</html>
